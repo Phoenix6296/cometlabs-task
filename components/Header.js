@@ -20,8 +20,8 @@ export const Header = () => {
           Desribe the value of booking an appointment
         </h1>
         <h3 className="text-2xl w-2/3">
-          No need to get clever. Tell people exactly what you're offering, then
-          use this space to communicate your key value proposition.
+          No need to get clever. Tell people exactly what you&apos;re offering,
+          then use this space to communicate your key value proposition.
         </h3>
       </div>
     </header>
