@@ -5,3 +5,6 @@ export { ScheduleModal } from "./Benefits/ScheduleModal.js";
 export { BenefitTile } from "./Benefits/BenefitTile.js";
 
 export { Reason } from "./Reason.js";
+
+export { Testimonials } from "./Testimonials/Testimonials.js";
+export { TestimonialCard } from "./Testimonials/TestimonialCard.js";
