@@ -8,3 +8,6 @@ export { Reason } from "./Reason.js";
 
 export { Testimonials } from "./Testimonials/Testimonials.js";
 export { TestimonialCard } from "./Testimonials/TestimonialCard.js";
+
+export { Features } from "./Features/Features.js";
+export { FeatureCard } from "./Features/FeatureCard.js";
