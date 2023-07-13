@@ -11,3 +11,5 @@ export { TestimonialCard } from "./Testimonials/TestimonialCard.js";
 
 export { Features } from "./Features/Features.js";
 export { FeatureCard } from "./Features/FeatureCard.js";
+
+export { About } from "./About.js";
