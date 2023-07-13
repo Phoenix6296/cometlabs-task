@@ -13,3 +13,5 @@ export { Features } from "./Features/Features.js";
 export { FeatureCard } from "./Features/FeatureCard.js";
 
 export { About } from "./About.js";
+
+export { Footer } from "./Footer.js";
