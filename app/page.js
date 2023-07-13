@@ -1,3 +1,10 @@
+import { Benefits, Header } from "@/components";
+
 export default function Home() {
-  return <main>Hello</main>;
+  return (
+    <main className="text-primary">
+      <Header />
+      <Benefits />
+    </main>
+  );
 }
