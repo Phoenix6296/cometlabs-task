@@ -1,6 +1,7 @@
 import Image from "next/image";
 
 export const Input = ({
+  name,
   value,
   defaultValue,
   label,
@@ -40,6 +41,7 @@ export const Input = ({
       </div>
       <div className={`flex items-center ${mt} gap-1`}>
         <input
+          name={name}
           key={keys}
           onInvalid={onInvalid}
           ref={reference}
@@ -47,7 +49,6 @@ export const Input = ({
             focusStyles ? focusStyles : "focus:outline-none"
           } w-full border border-black border-opacity-10 py-3 px-4 rounded-md`}
           type={type}
-          name={label}
           id={label}
           placeholder={placeholder}
           onKeyDown={onKeyDown}

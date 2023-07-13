@@ -21,3 +21,5 @@ export const BENEFIT_TILE_DATA = [
       "Remind visitors how easy it is to claim your offer and start enjoying the benefits.",
   },
 ];
+
+export const APPOINTMENT_OPTIONS = ["Type 1", "Type 2", "Type 3"];
