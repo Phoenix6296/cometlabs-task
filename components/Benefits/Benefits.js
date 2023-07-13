@@ -4,8 +4,8 @@ import { ScheduleModal } from "./ScheduleModal";
 
 export const Benefits = () => {
   return (
-    <section className="grid grid-cols-2 px-40">
-      <div className="flex flex-col mt-20">
+    <section className="grid grid-cols-2 px-40 h-[560px] mb-20">
+      <div className="flex flex-col items-center justify-center gap-10">
         {BENEFIT_TILE_DATA.map((data, index) => {
           return (
             <BenefitTile
