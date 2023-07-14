@@ -33,15 +33,15 @@ export const ScheduleModal = () => {
   };
 
   return (
-    <div className="relative">
+    <div className="relative lg:bottom-0 bottom-20">
       <form
         onSubmit={handleFormSubmit}
-        className="absolute -top-32 bg-primary flex flex-col items-center gap-5 p-10"
+        className="lg:absolute lg:-top-32 bg-primary flex flex-col items-center gap-5 p-5 md:p-10"
       >
-        <h1 className="text-white text-4xl font-bold text-center">
+        <h1 className="text-white text-2xl md:text-4xl font-bold text-center">
           Schedule an Appointment
         </h1>
-        <h3 className="text-white text-center">
+        <h3 className="text-white text-sm md:text-base text-center">
           Here, let visitors know what will happen when they complete your form.
         </h3>
         <div className="w-full flex flex-col gap-3">
