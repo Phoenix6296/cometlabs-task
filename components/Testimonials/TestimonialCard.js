@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export const TestimonialCard = ({
   noOfStars,
   message,
@@ -8,7 +6,7 @@ export const TestimonialCard = ({
   location,
 }) => {
   return (
-    <div className="w-96 p-2 flex flex-col gap-3">
+    <div className="w-full md:w-96 p-2 flex flex-col gap-3">
       <p>
         {Array(noOfStars)
           .fill()
@@ -22,10 +20,10 @@ export const TestimonialCard = ({
         <em>{message}</em>
       </h1>
       <div className="flex items-center gap-2">
-        <img src={imgSrc} alt={name} width={50} height={50} />
+        <img src={imgSrc} alt={name} width={50} height={50} layout="fixed" />
         <div>
-          <p>{name}</p>
-          <p>{location}</p>
+          <p className="text-sm md:text-base">{name}</p>
+          <p className="text-sm md:text-base">{location}</p>
         </div>
       </div>
     </div>
