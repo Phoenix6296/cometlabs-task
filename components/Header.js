@@ -9,7 +9,7 @@ export const Header = () => {
           "url(https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/abbcf2d7-multor-heroshot_100000000000000000001o.jpg)",
       }}
     >
-      <div className="flex flex-col gap-6 w-full lg:w-2/3 mx-auto md:text-left">
+      <div className="flex flex-col gap-6 w-full lg:w-5/6 mx-auto md:text-left">
         <Image
           src="https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/42234823-multor-logo.svg"
           alt="Multor logo"
@@ -17,7 +17,9 @@ export const Header = () => {
           height={100}
         />
         <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-tighter flex-wrap mt-10 md:mt-20">
-          Describe the value of booking an appointment
+          Describe the
+          <br /> value of booking
+          <br /> an appointment
         </h1>
         <h3 className="text-lg md:text-xl lg:text-2xl w-full md:w-2/3 mx-auto md:mx-0">
           No need to get clever. Tell people exactly what you&#39;re offering,
