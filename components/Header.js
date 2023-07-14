@@ -9,7 +9,7 @@ export const Header = () => {
           "url(https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/abbcf2d7-multor-heroshot_100000000000000000001o.jpg)",
       }}
     >
-      <div className="flex flex-col gap-6 w-full lg:w-5/6 mx-auto md:text-left">
+      <div className="flex flex-col gap-6 w-full lg:w-5/6 md:text-left">
         <Image
           src="https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/42234823-multor-logo.svg"
           alt="Multor logo"
