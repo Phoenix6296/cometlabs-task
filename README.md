@@ -81,20 +81,21 @@ A live demo of this cloned landing page can be accessed at [https://cometlabs-ta
 The performance of the website is optimized to provide a smooth and fast user experience. Here is a screenshot of the performance metrics obtained from Lighthouse:
 
 ### Performance Metrics
-
-<img src="./screenshots/metric.png" />
+<img width="1440" alt="metric" src="https://github.com/Phoenix6296/cometlabs-task/assets/72021425/fd85f65f-25ae-429e-9492-4c144fb8338a">
 
 ## Screenshots
 
 ### Large Device
 
-<img src="./screenshots/large1.png" />
-<img src="./screenshots/large2.png" />
+<img width="1440" alt="Screenshot 2023-07-14 at 9 39 45 PM" src="https://github.com/Phoenix6296/cometlabs-task/assets/72021425/2a8b29cd-4230-4d02-8275-234a3ae47615">
+<img width="1440" alt="Screenshot 2023-07-14 at 9 39 55 PM" src="https://github.com/Phoenix6296/cometlabs-task/assets/72021425/b4d3d223-2b52-47c0-a998-3b02fb6b56d8">
+
 
 ### Mobile Device
 
-<img src="./screenshots/small1.png" />
-<img src="https://drive.google.com/file/d/1a7FiwCgaH5qVoH-FtjtWZqJ5Su0OpQVZ/view?usp=sharing" />
+<img width="376" alt="Screenshot 2023-07-14 at 9 40 22 PM" src="https://github.com/Phoenix6296/cometlabs-task/assets/72021425/d4475755-93a0-4eef-a1bf-da729a4c7c29">
+<img width="380" alt="Screenshot 2023-07-14 at 9 40 32 PM" src="https://github.com/Phoenix6296/cometlabs-task/assets/72021425/d358ffa6-0d8a-4fdd-b65e-aaebfb9c11a5">
+
 
 ## Conclusion
 
