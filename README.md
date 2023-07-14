@@ -40,15 +40,15 @@ cometlabs-task/
 │   ├── global.css
 │   ├── layout.js
 │   └── page.js
-│   components/
+├── components/
 │   ├── Benefits/
 │   ├── common/
 │   ├── Features/
 │   └── Testimonials/
-│   utils/
+├── screenshots/
+├── utils/
 │   ├── constants/
 │       ├── index.js
-│
 ├── .gitignore
 ├── package.json
 └── README.md
@@ -94,7 +94,7 @@ The performance of the website is optimized to provide a smooth and fast user ex
 ### Mobile Device
 
 <img src="./screenshots/small1.png" />
-<img src="./screenshots/small2.png" />
+<img src="https://drive.google.com/file/d/1a7FiwCgaH5qVoH-FtjtWZqJ5Su0OpQVZ/view?usp=sharing" />
 
 ## Conclusion
 
