@@ -4,7 +4,7 @@ export const Reason = () => {
       <div className="flex flex-col gap-10 text-center mt-10">
         <h1 className="text-3xl md:text-5xl font-bold">
           Show visitors what <br className="hidden md:block" />
-          they're signing up for
+          they&#39;re signing up for
         </h1>
         <h3 className="text-sm md:text-lg">
           Include a video or photo from one of your sessions to help people

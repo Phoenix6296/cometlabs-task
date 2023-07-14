@@ -4,7 +4,7 @@ export const Testimonials = () => {
   return (
     <section className="px-5 lg:px-40 mb-20">
       <h1 className="text-secondary text-center text-base md:text-xl mb-10 md:mb-20">
-        DON'T JUST TAKE OUR WORD FOR IT
+        DON&#39;T JUST TAKE OUR WORD FOR IT
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <TestimonialCard
