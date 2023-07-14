@@ -54,7 +54,7 @@ cometlabs-task/
 └── README.md
 ```
 
-- The `app` directory contains the main JavaScript files (`layout.js` and `page.js`) and the global CSS file (`global.css`) for the landing page.
+- The `app` directory contains the main JavaScript files (`page.js`) and the global CSS file (`global.css`) for the landing page.
 - The `components` directory contains reusable components used in the landing page, such as Benefits, Features, Testimonials, and common components.
 - The `utils` directory contains utility files, including constants.
 - The `.gitignore` file specifies which files and directories should be ignored by Git.
@@ -75,6 +75,26 @@ After setting up the project locally and starting the development server, you ca
 ## Live Demo
 
 A live demo of this cloned landing page can be accessed at [https://cometlabs-task.vercel.app/](https://cometlabs-task.vercel.app/).
+
+## Performance
+
+The performance of the website is optimized to provide a smooth and fast user experience. Here is a screenshot of the performance metrics obtained from Lighthouse:
+
+### Performance Metrics
+
+<img src="./screenshots/metric.png" />
+
+## Screenshots
+
+### Large Device
+
+<img src="./screenshots/large1.png" />
+<img src="./screenshots/large2.png" />
+
+### Mobile Device
+
+<img src="./screenshots/small1.png" />
+<img src="./screenshots/small2.png" />
 
 ## Conclusion
 
